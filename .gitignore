@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+.vscode
+
+# Testing files
+*.cpp
+Makefile
+IntTrie
